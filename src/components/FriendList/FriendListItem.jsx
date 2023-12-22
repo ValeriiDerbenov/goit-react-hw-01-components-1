@@ -10,11 +10,3 @@ export const FriendListItem = ({ name, status, url }) => {
     </Friend>
   );
 };
-
-FriendListItem.propTypes = {
-      name: PropTypes.string,
-      status: PropTypes.bool,
-      url: PropTypes.string,
-      isOnline: PropTypes.bool,
-      avatar: PropTypes.string,
-    };
