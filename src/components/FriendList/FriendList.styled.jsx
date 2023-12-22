@@ -1,8 +1,8 @@
 import styled from 'styled-components';
 
 export const Friends = styled.ul`
-  margin-top: 40px;
-  width: 240px;
+  margin-top: 20px;
+  width: 280px;
   margin-left: auto;
   margin-right: auto;
 `;

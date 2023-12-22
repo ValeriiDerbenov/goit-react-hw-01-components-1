@@ -10,7 +10,7 @@ export const Friend = styled.li`
   overflow: hidden;
   border: 2px grey solid;
   &:not(:last-child) {
-    margin-bottom: 8px;
+    margin-bottom: 10px;
   }
 `;
 
